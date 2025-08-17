@@ -1,0 +1,45 @@
+.hero-section {
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  position: relative;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.351);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.text-container {
+  /* max-width: 600px; */
+  padding-left: 50px;
+}
+
+.display-4 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.lead {
+  margin: 20px 0;
+}
+.btn-book {
+  font-family: "Playfair Display", serif;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0px 20px 0px 20px;
+}
+.btn-book:hover {
+  background-color: black; /* light background on hover */
+  color: whitesmoke;
+}

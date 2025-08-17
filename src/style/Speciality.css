@@ -1,0 +1,30 @@
+.speciality-section h2 {
+  font-family: "Playfair Display", serif;
+  color: black;
+  font-weight: bold;
+}
+
+.speciality-section p {
+  font-family: "Playfair Display", serif;
+  font-size: 15px;
+  color: #444;
+}
+
+.speciality-section h6 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+.btn-kn {
+  border-radius: 0px 20px 0px 20px;
+  font-family: "Playfair Display", serif;
+  border: none;
+}
+.btn-kn:hover {
+  background-color: gray;
+  color: black;
+}
+
+.img-m {
+  border-radius: 20px;
+  box-shadow: 10px 10px 50px 5px black;
+}

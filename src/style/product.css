@@ -1,0 +1,18 @@
+.card-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 0px 20px 0px 20px;
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+}
+.card-description {
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  color: #333;
+}
+.product-slide {
+  background-color: #b9d4aa;
+  padding-bottom: 20px;
+}
