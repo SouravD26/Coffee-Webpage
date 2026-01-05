@@ -1,0 +1,20 @@
+Q ) Why did you choose this tech stack?
+A ) I chose React for its component-based architecture.
+   It helps reuse UI elements like menu cards and sections.
+   React provides fast rendering using the Virtual DOM.
+   CSS/Bootstrap ensures responsive design quickly.
+   This stack is scalable and easy to maintain.
+
+Q ) How would you improve this project?
+A ) Add backend integration for real product data.
+Implement cart and user authentication.
+Use Context API or Redux for state management.
+Improve performance using lazy loading.
+Add testing and accessibility improvements.
+
+Q ) How do you handle debugging?
+A )  I check console errors and browser DevTools first.
+Use console.log to track state and props.
+Inspect components using React DevTools.
+Break the problem into smaller parts.
+Refer to documentation and logs to fix issues.
